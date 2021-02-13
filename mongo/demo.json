@@ -1,0 +1,11 @@
+{
+  "name": "Alex",
+  "age": 25,
+  "rNo": 10,
+  "subs": ["Math", "Chem", "Bio"],
+  "add": {
+    "city": "Pune",
+    "st": "MH",
+    "c": "In"
+  }
+}

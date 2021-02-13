@@ -1,0 +1,1 @@
+// exports.welcomeMsg = "Hello User...!";
